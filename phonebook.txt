@@ -1,0 +1,11 @@
+Ivanov,Ivan, +7-900-40-50-123
+Smirnov,Sergey,+7-900-40-50-234
+Kabanov,Anton, +7-900-40-50-345
+Morozova,Anastasiya, +7-900-40-50-456
+Abu, Bakar, +7-900-40-50-567
+Romanova,Nataliya, +7-900-40-50-678
+Chizhikov,Andrey, +7-900-40-50-891
+Dostavka,Pizza, +7-900-40-50-910
+Otdel,kadrov, +7-900-40-50-012
+Kiselev, Leonid, +7-900-40-50-102
+Popovich, Vlad, +7-900-40-50-103
